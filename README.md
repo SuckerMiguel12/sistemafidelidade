@@ -58,16 +58,25 @@ Estrutura do projeto
 • controller — endpoints REST para manipulação das entidades
 
 Melhorias futuras
+
 • Integração com banco de dados real (MySQL, PostgreSQL)
+
 • Autenticação e autorização (Spring Security)
+
 • Interface frontend (React, Angular ou outra)
+
 • Funcionalidades para reservas e promoções
 
+
+
 Autor
+
 • Miguel Augusto Nunes Fanhani
 
 Contato
+
 • GitHub: https://github.com/SuckerMiguel12
+
 • Email: miguel.seuemail@exemplo.com
 
 Muito obrigado pela oportunidade de mostrar este projeto!
