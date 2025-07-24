@@ -23,19 +23,19 @@ Este projeto foi criado para demonstrar conhecimentos básicos em backend, utili
    ```bash
    git clone https://github.com/SuckerMiguel12/sistemafidelidade.git
 
----
+
 
 2. Entre na pasta do projeto:
    ```bash
    cd sistemafidelidade/sistemafidelidade
 
----
+
 
 3. Execute o projeto com Maven:
    ```bash
    mvn spring-boot:run 
 
----
+
 
 4.Acesse no navegador:
    
