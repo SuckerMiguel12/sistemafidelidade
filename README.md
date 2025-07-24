@@ -26,12 +26,16 @@ Este projeto foi criado para demonstrar conhecimentos básicos em backend, utili
 ---
 
 2.Entre na pasta do projeto:
-   ```bash cd sistemafidelidade/sistemafidelidade ```
+   
+   ```bash
+   cd sistemafidelidade/sistemafidelidade ```
 
 ---
 
 3.Execute o projeto com Maven:
-   ```bash mvn spring-boot:run ```
+   
+   ```bash
+   mvn spring-boot:run ```
 
 ---
 
@@ -57,6 +61,7 @@ Funcionalidades
 
 • Controle básico de pontos de fidelidade dos clientes
 
+---
 
 Estrutura do projeto
 
@@ -65,6 +70,9 @@ Estrutura do projeto
 • repository — interfaces para acesso ao banco de dados
 
 • controller — endpoints REST para manipulação das entidades
+
+---
+
 
 Melhorias futuras
 
@@ -76,11 +84,13 @@ Melhorias futuras
 
 • Funcionalidades para reservas e promoções
 
-
+---
 
 Autor
 
 • Miguel Augusto Nunes Fanhani
+
+---
 
 Contato
 
