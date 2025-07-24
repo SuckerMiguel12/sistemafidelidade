@@ -23,12 +23,13 @@ Este projeto foi criado para demonstrar conhecimentos básicos em backend, utili
    ```bash
    git clone https://github.com/SuckerMiguel12/sistemafidelidade.git
 2.Entre na pasta do projeto:
-   cd sistemafidelidade/sistemafidelidade
+   ```bash cd sistemafidelidade/sistemafidelidade ```
 
 3.Execute o projeto com Maven:
-   mvn spring-boot:run
+   ```bash mvn spring-boot:run ```
 
 4.Acesse no navegador:
+   
    API REST: http://localhost:8080/clientes
    Documentação Swagger: http://localhost:8080/swagger-ui.html
 
