@@ -31,19 +31,30 @@ Este projeto foi criado para demonstrar conhecimentos básicos em backend, utili
 4.Acesse no navegador:
    
    API REST: http://localhost:8080/clientes
+   
    Documentação Swagger: http://localhost:8080/swagger-ui.html
 
 Funcionalidades
+
 • CRUD completo de clientes:
+
 • Listar clientes
+
 • Adicionar novo cliente
+
 • Atualizar cliente existente
+
 • Deletar cliente
+
 • Controle básico de pontos de fidelidade dos clientes
 
+
 Estrutura do projeto
+
 • model — contém as entidades (ex: Cliente)
+
 • repository — interfaces para acesso ao banco de dados
+
 • controller — endpoints REST para manipulação das entidades
 
 Melhorias futuras
