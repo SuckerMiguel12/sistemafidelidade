@@ -94,6 +94,6 @@ Contato
 
 • GitHub: https://github.com/SuckerMiguel12
 
-• Email: miguel.seuemail@exemplo.com
+• Email: miguelfanhani0@gmail.com
 
 Muito obrigado pela oportunidade de mostrar este projeto!
